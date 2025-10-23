@@ -9,7 +9,7 @@
 
 ## 📘 Project Overview
 
-This project focuses on **Exploratory Data Analysis (EDA)** of the **Zomato Restaurants Dataset** to uncover insights about restaurant ratings, cuisines, locations, and user preferences across different countries.  
+This project focuses on **Exploratory Data Analysis (EDA)** of the **Zomato Restaurants Dataset** to uncover insights about restaurant ratings, cuisines, locations, and user preferences across different countries.  a
 
 The goal is to analyze and visualize restaurant-related data to understand key trends that impact restaurant performance and customer satisfaction.
 
@@ -83,4 +83,37 @@ Key visualizations and statistical analysis performed:
 - 🍴 Higher-rated restaurants tend to have a **mid-range price level**.  
 - 🍜 **North Indian**, **Chinese**, and **Fast Food** cuisines are the most popular globally.  
 - 👍 **Votes** have a positive correlation with **Aggregate Rating**.
+## 🔍 Exploratory Questions
 
+- Which country has the most Zomato listings?  
+- What cuisines are most common across top-rated restaurants?  
+- How does price range affect customer ratings?  
+- Are more votes always associated with higher ratings?  
+- What are the most popular cuisines by region?
+
+---
+
+## 📈 Top Visualizations
+
+- 🌍 Country-wise restaurant distribution (**Bar Chart**)  
+- 🍽️ Top cuisines by average rating (**Horizontal Bar Chart**)  
+- 💰 Price Range vs Aggregate Rating (**Boxplot**)  
+- 🔥 Correlation Heatmap  
+- 👍 Votes vs Ratings (**Scatter Plot**)
+
+---
+
+## 🧾 Acknowledgements
+
+- [Kaggle Zomato Dataset](https://www.kaggle.com/datasets)  
+- Zomato API documentation for reference  
+- Open-source Python community for inspiration  
+
+---
+
+## 👨‍💻 Author
+
+**Sanjay Merugu**  
+📧 [sanjaymerugu@gmail.com](mailto:sanjaymerugu@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/sanjaymerugu)  
+📊 Data Science Enthusiast | Power BI | Python | SQL | Machine Learning
